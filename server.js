@@ -6,7 +6,7 @@ const dbConfig = require("./app/config/db.config");
 const app = express();
 
 var corsOptions = {
-  origin: "https://react-proyect-gadd.web.app/"
+  origin: "https://app-gudemy.herokuapp.com/"
 };
 
 app.use(cors(corsOptions));
