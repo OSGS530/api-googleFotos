@@ -1,3 +1,3 @@
 module.exports = {
-  secret: "gudemy-secret-key"
+  secret: "googleFotos-secret-key"
 };
